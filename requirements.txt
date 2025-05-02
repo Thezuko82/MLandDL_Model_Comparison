@@ -3,5 +3,12 @@ pandas
 numpy
 seaborn
 matplotlib
-sklearn
-tensorflow.keras
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.metrics
+sklearn.linear_model
+sklearn.tree
+sklearn.ensemble
+sklearn.svm
+tensorflow.keras.models
+tensorflow.keras.layers
