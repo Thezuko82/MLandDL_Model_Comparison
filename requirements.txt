@@ -4,4 +4,4 @@ numpy
 seaborn
 matplotlib
 sklearn
-tensorflow
+tensorflow.keras
